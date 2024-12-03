@@ -13,7 +13,7 @@ from tkinter import filedialog
 import pandas as pd
 import math
 
-#These are all the external modules needed to run the program
+#These are all the global variables needed to run the program
 fsdata = {}
 bsdata = {}
 rfpoint = []
